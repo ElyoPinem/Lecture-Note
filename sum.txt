@@ -1,0 +1,11 @@
+Summary Balancing Fucntion and fashion 
+Error Messages
+A key part of interface design strategy of guidance for the user.
+Should be consistent across one or multiple applications.
+Improving error messages is one of the easiest ways to improve an existing system or interface.
+Error frequency must be monitored so that designers can improve the interface.
+Error Message Guidelines
+Specificity
+Constructive guidance and positive tone
+User-centered phrasing
+Appropriate physical format
